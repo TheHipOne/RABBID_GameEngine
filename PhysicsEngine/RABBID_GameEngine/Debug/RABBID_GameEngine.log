@@ -1,0 +1,92 @@
+﻿  timing.cpp
+  ThreeDS.cpp
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(37): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(412): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(491): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(492): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(493): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(524): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(525): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_gameobjects\models\source\threeds.cpp(526): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+  SoundClass.cpp
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_audio\source\soundclass.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_audio\source\soundclass.cpp(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_audio\source\soundclass.cpp(284): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_audio\source\soundclass.cpp(354): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+  JEN_Wrapper.cpp
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.h(56): error C2248: 'TimingData::TimingData' : cannot access private member declared in class 'TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(107) : see declaration of 'TimingData::TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(27) : see declaration of 'TimingData'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.h(56): error C2248: 'TimingData::TimingData' : cannot access private member declared in class 'TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(107) : see declaration of 'TimingData::TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(27) : see declaration of 'TimingData'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(169): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(169): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(169): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(247): error C2061: syntax error : identifier 'vUp'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(271): error C2061: syntax error : identifier 'vForward'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(306): error C2440: 'initializing' : cannot convert from 'PhysicsEngine::JenTools::JEN_VECTOR3' to 'PhysicsEngine::JenTools'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(307): error C2374: 'jenScaleToUnit' : redefinition; multiple initialization
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(306) : see declaration of 'jenScaleToUnit'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jenframe.h(307): error C2440: 'initializing' : cannot convert from 'PhysicsEngine::JenTools::JEN_VECTOR3' to 'PhysicsEngine::JenTools'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(34): warning C4005: 'PI' : macro redefinition
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\physicsengine\physicsengine\vector3d.h(16) : see previous definition of 'PI'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(332): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(333): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(334): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(356): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(357): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(358): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(359): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(382): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(382): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(429): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(429): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(429): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(450): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(450): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(520): warning C4091: '' : ignored on left of 'double [3]' when no variable is declared
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(520): error C2143: syntax error : missing ';' before '['
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(520): error C3409: empty attribute block is not allowed
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(520): error C2143: syntax error : missing ']' before 'constant'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(520): error C2143: syntax error : missing ';' before 'constant'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(520): error C2143: syntax error : missing ';' before ']'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(520): error C2143: syntax error : missing ';' before ']'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(534): error C2440: 'initializing' : cannot convert from 'PhysicsEngine::JenTools::JEN_VECTOR3' to 'PhysicsEngine::JenTools'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(539): warning C4244: 'initializing' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(540): error C2039: 'Reset' : is not a member of 'TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(27) : see declaration of 'TimingData'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(546): error C2440: 'initializing' : cannot convert from 'PhysicsEngine::JenTools::JEN_VECTOR3' to 'PhysicsEngine::JenTools'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(568): error C2440: 'initializing' : cannot convert from 'PhysicsEngine::JenTools::JEN_VECTOR3' to 'PhysicsEngine::JenTools'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(572): error C2374: 'jenScaleToUnit' : redefinition; multiple initialization
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(568) : see declaration of 'jenScaleToUnit'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(572): error C2440: 'initializing' : cannot convert from 'PhysicsEngine::JenTools::JEN_VECTOR3' to 'PhysicsEngine::JenTools'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(578): error C2059: syntax error : '>'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(579): error C2143: syntax error : missing ';' before '{'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(585): error C2440: 'initializing' : cannot convert from 'PhysicsEngine::JenTools::JEN_VECTOR3' to 'PhysicsEngine::JenTools'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\jen_wrapper.cpp(590): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Billards_main.cpp
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jen_wrapper.h(40): error C2248: 'TimingData::TimingData' : cannot access private member declared in class 'TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(107) : see declaration of 'TimingData::TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(27) : see declaration of 'TimingData'
+c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_renderer\jen_wrapper.h(40): error C2248: 'TimingData::TimingData' : cannot access private member declared in class 'TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(107) : see declaration of 'TimingData::TimingData'
+          c:\users\the hip\documents\visual studio 2010\projects\physicsengine\rabbid_gameengine\rabbid_timer\timing.h(27) : see declaration of 'TimingData'
+  Ball.cpp
+  Generating Code...
